@@ -4,4 +4,7 @@
 <br>
 <br>
 <br>
-Let's do this.
+I learned tags, formatting, linking, adding images, creating nav menus and pages, and a little bit of CSS. The result is rough, as I went slightly rogue and haven't come back to actually make this site look nice, but it does have some pretty images and links to cool associations that support the Appalachian Trail and the Pacific Crest trail.
+<br>
+<br>
+If you really want to see it, visit [*AT vs. PCT*](http://tiffanydenny.github.io/sample_website)
